@@ -1,6 +1,6 @@
 <!-- Mini bio -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Aryane-orange?style=flat&logo=github&logoColor=ffffff&labelColor=000000" alt="Kaio">
+  <img src="https://img.shields.io/badge/Kaio-blue?style=flat&logo=github&logoColor=ffffff&labelColor=000000" alt="Kaio">
 </p>
 
 <h1 align="center">Olá, sou Kaio 👋</h1>
