@@ -6,12 +6,11 @@
 <h1 align="center">Olá, sou Kaio 👋</h1>
 <p align="center">Bem-vindo(a) ao meu GitHub!</p>
 
-## 💫 Sobre mim
+## 👨‍💻 Sobre mim
 
-* Estudante de Engenharia de Software na UCSAL 
-*  Cursando Técnico de Redes de Computadores pelo SENAI CIMATEC
-
-## 💻 Competências Técnicas 
+* 🎓 Estudante de Engenharia de Software na UCSAL
+* 🌐 Cursando Técnico em Redes de Computadores pelo SENAI CIMATEC
+* 💻 Em constante aprendizado e buscando desenvolver minhas habilidades em tecnologia, programação e infraestrutura de redes.
 
 ### Linguagens de Programação
 
