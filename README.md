@@ -1,16 +1,22 @@
-## Hi there 👋
+<!-- Mini bio -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Aryane-orange?style=flat&logo=github&logoColor=ffffff&labelColor=000000" alt="Kaio">
+</p>
 
-<!--
-**kaiofaustino/kaiofaustino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Olá, sou Kaio 👋</h1>
+<p align="center">Bem-vindo(a) ao meu GitHub!</p>
 
-Here are some ideas to get you started:
+## 💫 Sobre mim
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Estudante de Engenharia de Software na UCSAL 
+*  Cursando Técnico de Redes de Computadores pelo SENAI CIMATEC
+
+## 💻 Competências Técnicas 
+
+### Linguagens de Programação
+
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=ffffff)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=FFD43B)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000000)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=ffffff)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=ffffff)
